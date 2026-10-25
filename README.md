@@ -207,6 +207,18 @@ Right now, I'm strengthening the fundamentals that matter for backend work: **Py
 <details>
   <summary><strong>A longer-term experiment: Absoluta</strong></summary>
   <br>
+  
+  <div align="center">
+
+<a href="https://github.com/GabrielJalmeida">
+  <img
+    src="docs/assets/absoluta-badge.png"
+    alt="Absoluta — linguagem experimental de programação"
+    width="180"
+  >
+</a>
+
+</div>
   **Absoluta** is an early-stage programming-language experiment exploring intention-driven programming, automation and native AI integration. It's still taking shape, so I'll share more when the ideas are ready to be explained clearly.
 </details>
 
