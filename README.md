@@ -156,7 +156,7 @@ A few more glimpses from projects where a visual preview helps tell the story. *
   <img src="https://raw.githubusercontent.com/GabrielJalmeida/cyber.vulnerable-login-lab/main/images/web/01-tela-login.png" alt="Real screenshot of the Cyber Lab Flask login form" width="49%">
 </a>
 <a href="https://github.com/GabrielJalmeida/cyber.vulnerable-login-lab">
-  <img src="[https://raw.githubusercontent.com/GabrielJalmeida/cyber.vulnerable-login-lab/main/images/web/04-resultado-medusa.png](https://github.com/GabrielJalmeida/cyber.vulnerable-login-lab/blob/main/images/web/03-analise-requisicao-f12.png)" alt="Real screenshot documenting a controlled Medusa test in the lab" width="49%">
+  <img src="images/web/03-analise-requisicao-f12.png" alt="Real screenshot documenting a controlled Medusa test in the lab" width="49%">
 </a>
 
 **Cyber Lab — Vulnerable Login Lab** is an intentionally vulnerable, educational project for understanding authentication behavior and controlled FTP/SMB auditing inside an isolated virtual network. I use the lab to learn how to document evidence, identify weak controls and compare vulnerable behavior with defensive design.
