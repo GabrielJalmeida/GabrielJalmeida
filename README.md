@@ -47,7 +47,7 @@ A few projects that show the kind of problems I like working on. The images link
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/GabrielJalmeida/api-analise-pele">
-        <img src="https://raw.githubusercontent.com/GabrielJalmeida/api-analise-pele/main/frontend/src/assets/hero.png" alt="Artwork used in the Lumina Skin application" width="100%">
+        <img src="https://github.com/GabrielJalmeida/api-analise-pele/raw/main/frontend/src/assets/luminaLogo.png" alt="Artwork used in the Lumina Skin application" width="100%">
       </a>
       <h3>01 / Lumina Skin</h3>
       <p>An AI-assisted skincare analysis and product recommendation platform. One design principle guides the backend: <strong>AI interprets; the API decides.</strong> Recommendations stay grounded in explicit, testable rules.</p>
