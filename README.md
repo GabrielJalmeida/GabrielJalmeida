@@ -194,6 +194,14 @@ A few more glimpses from projects where a visual preview helps tell the story. *
 
 ## What I'm focused on
 
+<div align="center">
+  <img
+    src="docs/assets/code-quest.png"
+    alt="Code Quest — uma aventura de programação em pixel art"
+    width="680"
+  >
+</div>
+
 Right now, I'm strengthening the fundamentals that matter for backend work: **Python, SQL and PostgreSQL, API design, automated testing, object-oriented programming and secure coding**. I keep building across the stack so I can understand how data models, business rules and user-facing behavior fit together.
 
 <details>
