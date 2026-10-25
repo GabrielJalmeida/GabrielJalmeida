@@ -151,10 +151,11 @@ A few more glimpses from projects where a visual preview helps tell the story. *
 </details>
 
 ## Security lab
+
 <div align="center">
   
 <a href="https://github.com/GabrielJalmeida/cyber.vulnerable-login-lab">
-  <img src="https://raw.githubusercontent.com/GabrielJalmeida/cyber.vulnerable-login-lab/main/images/web/01-tela-login.png" alt="Real screenshot of the Cyber Lab Flask login form" width="49%">
+  <img src="https://raw.githubusercontent.com/GabrielJalmeida/cyber.vulnerable-login-lab/main/images/web/01-tela-login.png" alt="Real screenshot of the Cyber Lab Flask login form" width="80%">
 </a>
 
 </div>
