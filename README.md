@@ -205,8 +205,8 @@ A few more glimpses from projects where a visual preview helps tell the story. *
 
 Right now, I'm strengthening the fundamentals that matter for backend work: **Python, SQL and PostgreSQL, API design, automated testing, object-oriented programming and secure coding**. I keep building across the stack so I can understand how data models, business rules and user-facing behavior fit together.
 
+<div align="center">
 <details>
-  <div align="center">
       
   <summary><strong>A longer-term experiment: Absoluta</strong></summary>
   <br>
@@ -220,9 +220,8 @@ Right now, I'm strengthening the fundamentals that matter for backend work: **Py
 </a>
 
   **Absoluta** is an early-stage programming-language experiment exploring intention-driven programming, automation and native AI integration. It's still taking shape, so I'll share more when the ideas are ready to be explained clearly.
-
+  </details>
 </div>
-</details>
 
 ## Contact
 
