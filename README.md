@@ -227,11 +227,13 @@ I'm open to **software development internship opportunities**, especially those 
 
 <br><br>
 
+<div align="center">
   <img
     src="docs/assets/code-quest.png"
     alt="Code Quest — uma aventura de programação em pixel art"
-    width="500"
+    width="680"
   >
+</div>
 
 <sub>Build with purpose. Learn by doing. Improve what matters.</sub>
 
