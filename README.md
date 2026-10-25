@@ -155,7 +155,7 @@ A few more glimpses from projects where a visual preview helps tell the story. *
 <div align="center">
   
 <a href="https://github.com/GabrielJalmeida/cyber.vulnerable-login-lab">
-  <img src="https://raw.githubusercontent.com/GabrielJalmeida/cyber.vulnerable-login-lab/main/images/web/01-tela-login.png" alt="Real screenshot of the Cyber Lab Flask login form" width="80%">
+  <img src="https://raw.githubusercontent.com/GabrielJalmeida/cyber.vulnerable-login-lab/main/images/web/01-tela-login.png" alt="Real screenshot of the Cyber Lab Flask login form" width="100%">
 </a>
 
 </div>
@@ -199,7 +199,7 @@ A few more glimpses from projects where a visual preview helps tell the story. *
   <img
     src="docs/assets/code-quest.png"
     alt="Code Quest — uma aventura de programação em pixel art"
-    width="680"
+    width="500"
   >
 </div>
 
@@ -219,8 +219,9 @@ Right now, I'm strengthening the fundamentals that matter for backend work: **Py
   >
 </a>
 
-</div>
   **Absoluta** is an early-stage programming-language experiment exploring intention-driven programming, automation and native AI integration. It's still taking shape, so I'll share more when the ideas are ready to be explained clearly.
+
+</div>
 </details>
 
 ## Contact
