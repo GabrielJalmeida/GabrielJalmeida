@@ -67,7 +67,7 @@ A few projects that show the kind of problems I like working on. The images link
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/GabrielJalmeida/leadflow">
-        <img src="docs/assets/leadflow-flow.png" alt="LeadFlow concept diagram: discover, verify, qualify and follow up" width="100%">
+        <img src="docs/assets/leadflow-flow-preview.png" alt="LeadFlow concept diagram: discover, verify, qualify and follow up" width="100%">
       </a>
       <h3>03 / LeadFlow Agent</h3>
       <p>A local-first lead research and sales workflow that investigates businesses, checks evidence and organizes qualification and follow-up. It prefers an unresolved field over attaching information to the wrong business.</p>
