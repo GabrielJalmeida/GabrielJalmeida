@@ -77,7 +77,7 @@ A few projects that show the kind of problems I like working on. The images link
     </td>
     <td width="50%" valign="top">
       <a href="https://sol-bravo.vercel.app/">
-        <img src="https://raw.githubusercontent.com/GabrielJalmeida/sol-bravo/main/assets/meta/og-sol-bravo.jpg" alt="Sol Bravo Energy interactive 3D brand experience preview" width="100%">
+        <img src="docs/assets/sol-bravo.png" alt="Sol Bravo Energy interactive 3D brand experience preview" width="100%">
       </a>
       <h3>04 / Sol Bravo Energy</h3>
       <p>A fictional energy-drink brand experience built around interactive 3D product scenes, scroll-driven storytelling and a hands-on product explorer.</p>
