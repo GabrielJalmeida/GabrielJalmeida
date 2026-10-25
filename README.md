@@ -217,9 +217,9 @@ Right now, I'm strengthening the fundamentals that matter for backend work: **Py
 
 ## Contact
 
-I'm open to **software development internship opportunities**, especially those involving backend development, APIs, databases and practical business systems. I'm also happy to connect with people building useful things and learning in public.
-
 <div align="center">
+  
+I'm open to **software development internship opportunities**, especially those involving backend development, APIs, databases and practical business systems. I'm also happy to connect with people building useful things and learning in public.
 
 <a href="https://www.linkedin.com/in/gabriel-almeida-258453364"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0B1120?style=for-the-badge&amp;logo=linkedin&amp;logoColor=F4B942" alt="Connect with Gabriel on LinkedIn"></a>
 <a href="https://portfolio-gabriel-almeida.vercel.app/"><img src="https://img.shields.io/badge/View%20Portfolio-0B1120?style=for-the-badge&amp;logo=vercel&amp;logoColor=F4B942" alt="View Gabriel's portfolio"></a>
@@ -227,13 +227,11 @@ I'm open to **software development internship opportunities**, especially those 
 
 <br><br>
 
-<div align="center">
   <img
     src="docs/assets/code-quest.png"
     alt="Code Quest — uma aventura de programação em pixel art"
     width="500"
   >
-</div>
 
 <sub>Build with purpose. Learn by doing. Improve what matters.</sub>
 
