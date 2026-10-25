@@ -47,7 +47,7 @@ A few projects that show the kind of problems I like working on. The images link
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/GabrielJalmeida/api-analise-pele">
-        <img src="https://github.com/GabrielJalmeida/api-analise-pele/raw/main/frontend/src/assets/luminaLogo.png" alt="Artwork used in the Lumina Skin application" width="100%">
+        <img src="docs/assets/lumina.jfif" alt="Artwork used in the Lumina Skin application" width="100%">
       </a>
       <h3>01 / Lumina Skin</h3>
       <p>An AI-assisted skincare analysis and product recommendation platform. One design principle guides the backend: <strong>AI interprets; the API decides.</strong> Recommendations stay grounded in explicit, testable rules.</p>
@@ -56,7 +56,7 @@ A few projects that show the kind of problems I like working on. The images link
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/GabrielJalmeida/baby-belo">
-        <img src="https://raw.githubusercontent.com/GabrielJalmeida/baby-belo/main/docs/assets/estoque-flex-hero.svg" alt="Estoque Flex — flexible inventory management" width="100%">
+        <img src="docs/assets/estoque_flex" alt="Estoque Flex — flexible inventory management" width="100%">
       </a>
       <h3>02 / Estoque Flex</h3>
       <p>A multi-company inventory system built around traceable stock movements, configurable item fields and role-aware access. Its modular backend separates core inventory rules from customization and authorization.</p>
@@ -156,7 +156,7 @@ A few more glimpses from projects where a visual preview helps tell the story. *
   <img src="https://raw.githubusercontent.com/GabrielJalmeida/cyber.vulnerable-login-lab/main/images/web/01-tela-login.png" alt="Real screenshot of the Cyber Lab Flask login form" width="49%">
 </a>
 <a href="https://github.com/GabrielJalmeida/cyber.vulnerable-login-lab">
-  <img src="https://raw.githubusercontent.com/GabrielJalmeida/cyber.vulnerable-login-lab/main/images/web/04-resultado-medusa.png" alt="Real screenshot documenting a controlled Medusa test in the lab" width="49%">
+  <img src="[https://raw.githubusercontent.com/GabrielJalmeida/cyber.vulnerable-login-lab/main/images/web/04-resultado-medusa.png](https://github.com/GabrielJalmeida/cyber.vulnerable-login-lab/blob/main/images/web/03-analise-requisicao-f12.png)" alt="Real screenshot documenting a controlled Medusa test in the lab" width="49%">
 </a>
 
 **Cyber Lab — Vulnerable Login Lab** is an intentionally vulnerable, educational project for understanding authentication behavior and controlled FTP/SMB auditing inside an isolated virtual network. I use the lab to learn how to document evidence, identify weak controls and compare vulnerable behavior with defensive design.
