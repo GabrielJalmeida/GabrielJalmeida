@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/banner.jfif" alt="Gabriel Almeida — software developer focused on backend, APIs and automation" width="100%">
+<img src="docs/assets/banner.gif" alt="Gabriel Almeida — software developer focused on backend, APIs and automation" width="100%">
 
 <p><strong>Systems Analysis and Development student at FATEC</strong> · Backend, APIs &amp; Automation</p>
 
