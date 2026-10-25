@@ -182,8 +182,6 @@ A few more glimpses from projects where a visual preview helps tell the story. *
 <a href="https://docs.pytest.org/"><img src="https://img.shields.io/badge/Pytest-Docs-101828?style=flat-square&amp;logo=pytest&amp;logoColor=F4B942" alt="Pytest documentation"></a>
 <a href="https://docs.docker.com/"><img src="https://img.shields.io/badge/Docker-Docs-101828?style=flat-square&amp;logo=docker&amp;logoColor=F4B942" alt="Docker documentation"></a>
 
-</div>
-
 | Area | Tools I use across projects |
 |---|---|
 | **Backend & APIs** | Python, FastAPI, Flask, Pydantic, REST APIs |
@@ -192,6 +190,8 @@ A few more glimpses from projects where a visual preview helps tell the story. *
 | **Engineering workflow** | Pytest, Git, GitHub Actions, Docker, VS Code |
 | **Security labs** | Linux, Kali Linux, VirtualBox, Nmap, Medusa |
 | **AI integration** | LLM APIs used as components of explicit application workflows |
+
+</div>
 
 ## What I'm focused on
 
@@ -206,10 +206,10 @@ A few more glimpses from projects where a visual preview helps tell the story. *
 Right now, I'm strengthening the fundamentals that matter for backend work: **Python, SQL and PostgreSQL, API design, automated testing, object-oriented programming and secure coding**. I keep building across the stack so I can understand how data models, business rules and user-facing behavior fit together.
 
 <details>
+  <div align="center">
+      
   <summary><strong>A longer-term experiment: Absoluta</strong></summary>
   <br>
-  
-  <div align="center">
 
 <a href="https://github.com/GabrielJalmeida">
   <img
