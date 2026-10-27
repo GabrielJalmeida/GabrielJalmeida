@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/banner.gif" alt="Gabriel Almeida — Backend, APIs, Automation and Software Systems" width="100%">
+<img src="docs/assets/main.banner.gif" alt="Gabriel Almeida — Backend, APIs, Automation and Software Systems" width="100%">
 
 <p><strong>I build software that turns real workflows into clear, reliable systems.</strong></p>
 
